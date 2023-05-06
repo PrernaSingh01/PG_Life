@@ -57,7 +57,7 @@ $interested_users_count = mysqli_num_rows($result_4);
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?= $property['property_name']; ?> | PG Life</title>
+    <title><?= $property['property_name']; ?> | PG_Life</title>
 
     <?php
     include "includes/head_links.php";
